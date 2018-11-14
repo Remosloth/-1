@@ -1,0 +1,35 @@
+body{
+    background-color:red;
+}
+img{
+     width:400px;
+    border-style:dotted;
+}
+p{
+    font-family: 'Spicy Rice', cursive;
+}
+p{
+    color:white;
+}
+.purple{
+    color:purple;
+}
+.blue{
+    color:blue;
+    font-weight:bold;
+}
+h1{
+    font-family: 'Black And White Picture', sans-serif;
+}
+.red{
+    color:orange;
+}
+.green{
+    color:green;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
